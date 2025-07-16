@@ -55,6 +55,7 @@ Para ejecutar el proyecto:
 ---
 
 ## 🧑‍💻 Ejemplo de Salida
+<img width="1039" height="495" alt="Captura de pantalla 2025-07-16 162631" src="https://github.com/user-attachments/assets/6e61ec02-9d07-4659-a979-05cabda9ffa4" />
 
 ```
 
